@@ -1,1 +1,1 @@
-# LifeGame
+"Game of Life" application.
